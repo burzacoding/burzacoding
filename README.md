@@ -2,7 +2,6 @@
 Soy un Full Stack Developer de Argentina.
 - 🔭 Trabajando en múltiples proyectos de frontend y backend usando React y Nodejs
 - 🌱 Aprendiendo testing, React Native y SQL
-<br>
 
 ## Conectate conmigo
 
